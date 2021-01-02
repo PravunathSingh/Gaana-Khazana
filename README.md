@@ -3,7 +3,7 @@
 Gaana Khazana (The treasure house of songs) is a web app built using React and the Context API.
 This app allows you to search for the lyrics of any song and the lyrics are fetched using the MusixMatch API.
 
-Find the live version of the app [here]()
+Find the live version of the app [here](https://gaanakhazana.netlify.app)
 
 Features of the app are:
 
